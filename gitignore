@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+organizer_report.txt
+test_folder/
+test_folder2/
